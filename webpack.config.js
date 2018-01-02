@@ -12,6 +12,10 @@ const config = {
         // Our first loader/rule module
         use: 'babel-loader',
         test: /\.js$/
+      },
+      {
+        use: ['style-loader', 'css-loader'],
+        test: /\.css$/
       }
     ]
   }
