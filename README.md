@@ -1,6 +1,8 @@
 
 # Webpack 1
 
+### Learning Webpack to pack all the things.
+
 ```bash
 npm install --save-dev webpack
 ```
