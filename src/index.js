@@ -1,6 +1,7 @@
 // const my_sum = require('./sum');
 import my_sum from './sum';
 import './image_viewer';
+import '../styles/body.css';
 
 const total = my_sum(10, 35);
 

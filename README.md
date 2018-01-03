@@ -15,3 +15,6 @@ npm install --save-dev style-loader css-loader
 ```bash
 npm install --save-dev extract-text-webpack-plugin
 ```
+```bash
+npm install --save-dev image-webpack-loader url-loader file-loader
+```
